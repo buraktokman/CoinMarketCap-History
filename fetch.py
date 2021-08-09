@@ -2,9 +2,9 @@
 #-------------------------------------------------------------------------------
 # Name      : CoinMarketCap Currency Price History
 # Purpose   : Download provided cryptocurrency's price history in CSV format.
-# Author   	: SirDavalos
+# Author   	: buraktokman
 # Created   : 15 Feb 2018
-# Copyright : (c) https://github.com/sirdavalos
+# Copyright : (c) https://github.com/buraktokman
 # Licence   : MIT
 #-------------------------------------------------------------------------------
 

@@ -2,9 +2,9 @@
 #-------------------------------------------------------------------------------
 # Name      : CoinMarketCap Currency Price History
 # Purpose   : Change time format of the dataframe column and save to CSV file.
-# Author   	: SirDavalos
+# Author   	: buraktokman
 # Created   : 15 Feb 2018
-# Copyright : (c) https://github.com/sirdavalos
+# Copyright : (c) https://github.com/buraktokman
 # Licence   : MIT
 #-------------------------------------------------------------------------------
 
